@@ -1,3 +1,2 @@
-console.log('hello world');
-
-console.log('Testiram git');
+const x = 1;
+const y = 2;
